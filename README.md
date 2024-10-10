@@ -22,7 +22,9 @@ This project demonstrates web scraping by extracting data from a quotes website 
 
 1. **Python 3**: Ensure you have Python 3 installed on your system.
 2. **Virtual Environment**: It is recommended to use a virtual environment for managing dependencies.
-3. **Python3-tk**: If You are using Linux like i do ensure that u install outside venv Python3-tk (Sudo apt install Python3-tk)
+3. **Python3-tk**: If You are using Linux like i do ensure that u install outside venv Python3-tk
+```bash
+Sudo apt install Python3-tk
 
 ### Setting Up the Project
 
